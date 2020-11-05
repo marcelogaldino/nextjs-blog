@@ -51,7 +51,7 @@ Nesse caso o cliente retorna apenas os dados, e não a aplicação completa com 
 
 As rotas utilizam métodos HTTP
 
-![]()
+![https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/metodos-http.png](https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/metodos-http.png)
 
 Benefícios da API REST
 
@@ -64,11 +64,11 @@ Toda a linguagem que utiliza o conceito de API REST utiliza o formato JSON (Java
 
 Conteúdo da requisição
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbb315c6-5668-4d7f-9092-1470c25f29da/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbb315c6-5668-4d7f-9092-1470c25f29da/Untitled.png)
+![https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/request-content.png](https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/request-content.png)
 
 Nos métodos POST e PUT, quando queremos criar ou editar alguma informação, usamos o body (corpo da requisição) para trafegar os dados
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35bd77a5-a137-4226-8baa-22536951285f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35bd77a5-a137-4226-8baa-22536951285f/Untitled.png)
+![https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/post-put.png](https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/post-put.png)
 
 Dessa forma os dados ficam protegidos, ao invés de visíveis na url
 
@@ -76,7 +76,7 @@ Junto com as requisições, temos o HEADER (cabeçalho da requisição) usado ge
 
 HTTP codes
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f85fb5e7-b31e-4b0a-8aa6-15c056d5ee31/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f85fb5e7-b31e-4b0a-8aa6-15c056d5ee31/Untitled.png)
+![https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/http-codes.png](https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/http-codes.png)
 
 # Métodos HTTP
 
