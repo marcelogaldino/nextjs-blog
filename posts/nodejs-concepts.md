@@ -51,7 +51,11 @@ Nesse caso o cliente retorna apenas os dados, e não a aplicação completa com 
 
 As rotas utilizam métodos HTTP
 
+<<<<<<< HEAD
 ![https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/metodos-http.png](https://raw.githubusercontent.com/marcelogaldino/nextjs-blog/feat/new_post/public/images/metodos-http.png)
+=======
+![https://github.com/marcelogaldino/nextjs-blog/blob/feat/new_post/public/images/metodos-http.png](https://github.com/marcelogaldino/nextjs-blog/blob/feat/new_post/public/images/metodos-http.png)
+>>>>>>> 506a0483ed488a40d4407259c403e6ded0c116b1
 
 Benefícios da API REST
 
