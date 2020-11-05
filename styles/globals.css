@@ -6,6 +6,7 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
+  background: #fff;
 }
 
 * {
@@ -25,3 +26,17 @@ img {
   max-width: 100%;
   display: block;
 }
+
+pre {
+  font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier,
+    monospace;
+  font-size: 78%;
+  tab-size: 2;
+  white-space: pre;
+  text-align: left;
+  padding: 12px;
+  border-radius: 8px;
+  background: rgb(202, 193, 193);
+  opacity: 0.8;
+}
+
